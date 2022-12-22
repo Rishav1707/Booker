@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Monitoring all of your important online activity 🖥️</h1>
+<h1 align="center">Online Scheduler platform for any buisness🖥️</h1>
 <br>
 
 <p align="center">
@@ -17,18 +17,15 @@
 <br />
 
 ## Features
-
-- Know if your website is offline right away! Reliable monitoring saves your money, reputation and clients — by alerting you before any major problems arise.
-
-- Utilize one of the instruments that administrators use most frequently to verify the availability of network devices.
-
-- Be informed!
-Even the strongest among us have downtime. However, it's crucial to be aware of it before clients are impacted!
+- Setup available times
+- Setup different calendars per service you offer
+- Integrate with Google Calendar
+- Get email notification when time is booked
 
 ## Contributing
 Feel like contributing? That's awesome!
 
-Thanks for showing interest to contribute to AlertIt 💖, you rock!
+Thanks for showing interest to contribute to Booker 💖, you rock!
 
 When it comes to open source, there are different ways you can contribute, all of which are valuable. Here are a few guidelines that should help you as you prepare to make your contribution.
 
