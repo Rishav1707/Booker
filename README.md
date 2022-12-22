@@ -42,17 +42,6 @@ All necessary API documentation is available here.
 https://documenter.getpostman.com/view/3551458/2s83zcT7GT
 
 ## Usage
-
-Edit .env.local file:
-
-```bash
-MONGODB_URI="URL FOR MONGO DATABASE" 
-SITE_URI="http://localhost:3000"
-#FOR AUTH CHANGE THIS WITH RANDOM STRINGS FOR HASHING.
-NEXTAUTH_JWT_SECRET="b4ed764b60a9a9be8452f06ca06519f9"
-NEXTAUTH_SECRET="b4ed764b60a9a9be8452f06ca06519f9"
-```
-
 Run the development server:
 
 ```bash
